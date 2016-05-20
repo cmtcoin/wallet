@@ -1,0 +1,9 @@
+Building Comet
+
+See doc/readme-qt.rst for instructions on building Comet-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Comet.
+
+See doc/build-*.txt for instructions on building cometd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Comet.
